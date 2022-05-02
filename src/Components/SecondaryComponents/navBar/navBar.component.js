@@ -62,7 +62,7 @@ const NavBar = () => {
                 width={"70%"}
                 padding={"13px 5px 13px 5px"}
               >
-                Create Electtion
+                Create Election
               </Button>
             </FlexibleDiv>
           </FlexibleDiv>
